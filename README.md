@@ -1,3 +1,9 @@
+# The link to the original source
+https://github.com/antonfrancisjeejo/to_do_list-_app--react/
+
+#The link to the course
+https://www.udemy.com/course/react-the-beginners-course
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
